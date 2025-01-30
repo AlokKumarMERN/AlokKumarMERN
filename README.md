@@ -1,4 +1,3 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9obmFhYnY4azYzaGZwYWh2cWx1eHozMm0wMW82YXZoYWY1MzFlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif](https://giphy.com/gifs/software-hardware-hardwaresoftware-u1WhXLjwgcXpHJBMRM)(https://imgs.search.brave.com/JT6QIcx2-mERPzKOa4SfXHYWeZtSV733Pw6EIELhO-Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL0g3Q0tk/MUdPNm9pWlFvN0w1/ZC9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/YzM1Z3drNjM3azls/cjljcG95emI3bnAx/dXRhbzBzZnN1NDhh/YXRiMSZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif)(https://i.giphy.com/u1WhXLjwgcXpHJBMRM.webp)
 <h1 align="center">Hi 👋, I'm Alok Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
